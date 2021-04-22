@@ -1,7 +1,5 @@
-#IDE
-.idea
-*.iml
-
-#Compiled
-*.class
 target
+.classpath
+.project
+.settings/
+

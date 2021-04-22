@@ -10,6 +10,6 @@ logging:
 # This value is inyected for an example
 index:
   view.text:
-    greeting: Hello World From Spring Boot Groovy!
+    greeting: Hello  From Spring Boot 2.4.4 Groovy 2.5.14 !
 
 spring.datasource.url: jdbc:h2:data_files
